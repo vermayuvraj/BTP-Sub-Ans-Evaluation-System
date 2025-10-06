@@ -1,0 +1,7 @@
+opencv-python
+pytesseract
+sentence-transformers
+language-tool-python
+textstat
+torch
+transformers
